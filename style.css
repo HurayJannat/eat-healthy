@@ -1,0 +1,75 @@
+.orange-color{
+    color: salmon;
+}
+body{
+    margin:0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    color: grey;
+}
+p{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.button-design{
+    text-decoration:none;
+    background-image:linear-gradient(rgb(241, 147, 137),rgb(235, 44, 10));
+    color:white ;
+    font-size: 30px;
+    border-radius: 30px;
+    padding: 10px 20px;
+    margin-top: 30px;
+}
+.container{
+    display: flex;
+    margin-bottom: 10%;
+}
+section img{
+    width: 100%;
+}
+
+.half-width{
+     width: 50%;
+     padding-left: 40px;
+     padding-right: 20px;
+     padding-top: 20px;
+     margin-left: 10px;
+     padding-bottom: 20px;
+     
+}
+.order-food{
+    background-image: url(eat-healthy-main/images/shapes/Group\ 8449.png);
+    background-repeat: no-repeat;
+    
+}
+.about-me{
+    background-image: url(eat-healthy-main/images/shapes/7.png);
+}
+.reciepe{
+    text-align: center;
+
+}
+
+.reciepe-list{
+    box-shadow: 10px 10px 50px gray;
+    width: 80%;
+    border-radius: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    
+}
+
+
